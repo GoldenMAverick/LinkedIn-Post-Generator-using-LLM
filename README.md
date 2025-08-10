@@ -9,7 +9,7 @@ A web-based application that leverages Large Language Models (LLMs) to generate 
 
 The system enables users to input a topic, tone, and desired post length, after which the LLM processes the request and produces a ready-to-use LinkedIn post. The architecture emphasizes modularity and scalability, making it easy to swap models or extend features such as hashtag generation, post scheduling, or sentiment adjustment.
 
-🔹 Key Features
+ # Key Features
 
 AI-powered LinkedIn post generation using LLM
 
@@ -21,7 +21,7 @@ Environment-based configuration for secure API key handling
 
 Real-time text output for immediate copy-paste use
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 LLM (Groq / OpenAI) – for text generation
 
